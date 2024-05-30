@@ -1,0 +1,11 @@
+bishopexchange\BishopExchangeController.class
+bishopexchange\model\BishopExchangeModel$TwoPhaseMove.class
+bishopexchange\util\BishopExchangeMoveSelector.class
+bishopexchange\model\Square.class
+bishopexchange\BishopExchangeController$1.class
+bishopexchange\util\BishopExchangeMoveSelector$Phase.class
+bishopexchange\model\BishopExchangeModel.class
+bishopexchange\Main.class
+bishopexchange\BishopExchangeApplication.class
+bishopexchange\BishopExchangeController$2.class
+bishopexchange\model\Position.class
